@@ -193,4 +193,4 @@ This repository serves as the official landing page for Heroes of Paradis: Prolo
 **Get the most recent version of Heroes of Paradis: Prologue today!**
 
 ---
-**Last updated:** 2026-11-12 04:45:38 UTC
+**Last updated:** 2026-11-12 13:25:59 UTC
